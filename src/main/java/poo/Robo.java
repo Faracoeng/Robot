@@ -41,6 +41,7 @@ public class Robo {
 //                default:
 //                    System.out.println(p[i] + " é um comando nao identificado");
   //      }
-    }
+    }//teste
+
     }
 }
